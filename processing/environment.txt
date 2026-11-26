@@ -1,0 +1,9 @@
+# Python 3.10; install a PyTorch build appropriate for your CUDA setup.
+torch
+torchvision
+open_clip_torch
+Pillow
+numpy
+tqdm
+hydra-core
+omegaconf

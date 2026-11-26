@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# JavaScript and frontend builds
+node_modules/
+dist/
+.tanstack/
+.output/
+
+# Local configuration
+.env
+.env.*
+!.env.example
+
+# Generated data and model outputs
+/data/raw_images/
+/data/embeddings/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
