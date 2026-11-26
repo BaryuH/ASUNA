@@ -21,6 +21,9 @@ dist/
 # Generated data and model outputs
 /data/raw_images/
 /data/embeddings/
+/data/clips/
+/data/audio/
+/data/checks/
 
 # Editor and OS files
 .vscode/
