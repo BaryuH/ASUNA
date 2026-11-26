@@ -12,3 +12,15 @@
 | Build and development server | Vite 8 | Run the development server and build the application |
 | Code quality | ESLint 9, TypeScript ESLint | Check source code |
 | Media server | Caddy or Node.js server | Serve keyframes, videos, and map files; Caddy supports HTTP/2 |
+
+## Local development
+
+Requires Node.js 22.12 or newer.
+
+```bash
+cd FE
+npm install
+npm run dev
+```
+
+The backend search API is not yet available; the workstation does not generate or display fabricated search results.
