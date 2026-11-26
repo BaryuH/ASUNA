@@ -1,0 +1,11 @@
+﻿query_id,pose_id,pose_name,relevant_ids
+Q01,P01,Chiến binh I (Warrior I),P01_01;P01_02;P01_03;P01_04;P01_05
+Q02,P02,Chiến binh II (Warrior II),P02_01;P02_02;P02_03;P02_04;P02_05
+Q03,P03,Rắn hổ mang (Cobra),P03_01;P03_02;P03_03;P03_04;P03_05
+Q04,P04,Chó ngửa mặt (Upward-Facing Dog),P04_01;P04_02;P04_03;P04_04;P04_05
+Q05,P05,Chó úp mặt (Downward-Facing Dog),P05_01;P05_02;P05_03;P05_04;P05_05
+Q06,P06,Tấm ván (Plank),P06_01;P06_02;P06_03;P06_04;P06_05
+Q07,P07,Cái cây (Tree),P07_01;P07_02;P07_03;P07_04;P07_05
+Q08,P08,Núi (Mountain),P08_01;P08_02;P08_03;P08_04;P08_05
+Q09,P09,Tam giác (Triangle),P09_01;P09_02;P09_03;P09_04;P09_05
+Q10,P10,Em bé (Child's Pose),P10_01;P10_02;P10_03;P10_04;P10_05
