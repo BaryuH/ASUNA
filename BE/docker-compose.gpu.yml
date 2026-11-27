@@ -1,0 +1,5 @@
+services:
+  backend:
+    environment:
+      ASUNA_DEVICE: cuda
+    gpus: all
