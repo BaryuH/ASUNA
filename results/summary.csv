@@ -1,0 +1,4 @@
+﻿method,similarity,hits,hit@5,precision@5,mrr
+hsv_hist,intersection,4/10,0.40,0.10,0.175
+dinov2,cosine,7/10,0.70,0.24,0.465
+pe-core,cosine,10/10,1.00,0.40,0.633
